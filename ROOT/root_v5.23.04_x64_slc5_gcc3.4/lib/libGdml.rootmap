@@ -1,2 +1,0 @@
-Library.TGDMLParse:                         libGdml.so libGeom.so libXMLIO.so libHist.so libRIO.so
-Library.TGDMLRefl:                          libGdml.so libGeom.so libXMLIO.so libHist.so libRIO.so
