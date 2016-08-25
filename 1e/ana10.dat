@@ -3,6 +3,7 @@
 -----------------------------------------------------------------
 2b2n_ca48                 A = 4.00e-05  Eff = 6.10e-05  Nexp = 2.57e-01  +/- 2.59e-02 
 2b2n_nd150                A = 3.60e-04  Eff = 1.72e-03  Nexp = 6.54e+01  +/- 6.54e+00 
+2b2n_zr96_both            A = 5.42e-05  Eff = 1.38e-01  Nexp = 7.88e+02  +/- 2.07e-01 
 ca48_foils_bi214          A = 4.47e-06  Eff = 2.29e-05  Nexp = 1.08e-02  +/- 2.20e-04 
 ca48_foils_k40            A = 0.00e+00  Eff = -nan      Nexp = 0.00e+00  +/- 0.00e+00 
 ca48_foils_pa234m         A = 0.00e+00  Eff = -nan      Nexp = 0.00e+00  +/- 0.00e+00 
@@ -18,18 +19,18 @@ nd150_foils_pb211         A = 0.00e+00  Eff = -nan      Nexp = 0.00e+00  +/- 0.0
 nd150_foils_pb214         A = 1.67e-04  Eff = 8.98e-05  Nexp = 1.58e+00  +/- 1.63e-02 
 nd150_foils_tl207         A = 0.00e+00  Eff = -nan      Nexp = 0.00e+00  +/- 0.00e+00 
 nd150_foils_tl208         A = 5.07e-04  Eff = 5.36e-04  Nexp = 2.87e+01  +/- 1.21e-01 
-foils.zr96.ac228.both     A = 2.51e-04  Eff = 5.30e-02  Nexp = 1.40e+03  +/- 1.08e+02 
-foils.zr96.bi212.both     A = 2.51e-04  Eff = 1.58e-01  Nexp = 4.18e+03  +/- 3.23e+02 
-foils.zr96.tl208.both     A = 9.05e-05  Eff = 2.81e-02  Nexp = 2.68e+02  +/- 2.07e+01 
-foils.zr96.bi214.both     A = 1.86e-04  Eff = 9.82e-02  Nexp = 1.93e+03  +/- 2.07e+02 
-foils.zr96.pb214.both     A = 1.86e-04  Eff = 4.60e-03  Nexp = 9.03e+01  +/- 9.71e+00 
-foils.zr96.k40.both       A = 1.97e-02  Eff = 1.80e-01  Nexp = 3.74e+05  +/- 1.09e+03 
-foils.zr96.pa234m.both    A = 5.23e-04  Eff = 2.61e-01  Nexp = 1.44e+04  +/- 8.04e+02 
-foils.zr96.pb211.both     A = 0.00e+00  Eff = -nan      Nexp = 0.00e+00  +/- 0.00e+00 
-foils.zr96.tl207.both     A = 0.00e+00  Eff = -nan      Nexp = 0.00e+00  +/- 0.00e+00 
+foils.zr96.ac228.both     A = 2.17e-04  Eff = 5.29e-02  Nexp = 1.21e+03  +/- 8.10e+01 
+foils.zr96.bi212.both     A = 2.17e-04  Eff = 1.58e-01  Nexp = 3.62e+03  +/- 2.42e+02 
+foils.zr96.tl208.both     A = 7.81e-05  Eff = 2.81e-02  Nexp = 2.31e+02  +/- 1.54e+01 
+foils.zr96.bi214.both     A = 1.72e-04  Eff = 9.82e-02  Nexp = 1.78e+03  +/- 1.77e+02 
+foils.zr96.pb214.both     A = 1.72e-04  Eff = 4.60e-03  Nexp = 8.35e+01  +/- 8.30e+00 
+foils.zr96.k40.both       A = 1.56e-02  Eff = 1.80e-01  Nexp = 2.96e+05  +/- 6.66e+02 
+foils.zr96.pa234m.both    A = 4.91e-04  Eff = 2.61e-01  Nexp = 1.35e+04  +/- 3.19e+02 
+foils.zr96.pb211.both     A = 3.57e-03  Eff = 1.20e-01  Nexp = 4.53e+04  +/- 2.98e+02 
+foils.zr96.tl207.both     A = 3.57e-03  Eff = 1.47e-01  Nexp = 5.56e+04  +/- 3.66e+02 
 foils.zr96.zr96.both      A = 0.00e+00  Eff = -nan      Nexp = 0.00e+00  +/- 0.00e+00 
-sfoilbi210_p2             A = 1.86e+00  Eff = 7.01e-05  Nexp = 1.38e+04  +/- 5.45e+02 
-sfoilbi210_p1             A = 1.86e+00  Eff = 5.33e-05  Nexp = 1.05e+04  +/- 4.22e+02 
+sfoilbi210_p1             A = 2.20e-01  Eff = 5.33e-05  Nexp = 1.24e+03  +/- 2.50e+02 
+sfoilbi210_p2             A = 2.20e-01  Eff = 7.01e-05  Nexp = 1.63e+03  +/- 3.29e+02 
 swirebi210_p1             A = 9.93e+00  Eff = 6.99e-06  Nexp = 7.32e+03  +/- 1.11e+02 
 swirebi210_p2             A = 8.92e+00  Eff = 9.66e-06  Nexp = 9.09e+03  +/- 1.17e+02 
 exbg11bi212_p1            A = 0.00e+00  Eff = -nan      Nexp = 0.00e+00  +/- 0.00e+00 
@@ -104,10 +105,3 @@ wiresco60_p2              A = 0.00e+00  Eff = -nan      Nexp = 0.00e+00  +/- 0.0
 -----------------------------------------------------------------
 Runtime	= 1221.04 days
 Events 	= 447392.00
-
-
- SIGNALS 
------------------------------------------------------------------
-2b2n_zr96_both            A = 2.64e-05  +/- 2.15e-05  Eff = 1.38e-01  Nexp = 3.84e+02  +/- 3.13e+02 
-
-Fit window = 0.4 - 4.0 MeV 
