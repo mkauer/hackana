@@ -1,0 +1,49 @@
+
+========================================================
+internal bkg systematics --> master-model-7 (LFit)
+========================================================
+
+foils.zr96.pa234m.both    A = 4.91e-04  0  BR E 1.16e-05
+foils.zr96.pa234m.both    A = 1.26e-03  0  BR E 7.93e-04
+==>  +157%  -->  -12% on HL
+
+foils.zr96.k40.both       A = 1.56e-02  0  BR E 3.49e-05
+foils.zr96.k40.both       A = 1.92e-02  0  BR E 4.61e-03
+==>  +23%  -->  -3.4% on HL
+
+foils.zr96.pb211.both     A = 3.57e-03  0  BR E 2.35e-05
+foils.zr96.pb211.both     A = 3.67e-03  0  BR E 6.67e-04
+==>  +3%  -->  -0.2% on HL
+
+foils.zr96.bi214.both     A = 1.80e-04  0  BR E 1.50e-05
+foils.zr96.bi214.both     A = 1.46e-04  0  BR E 1.71e-05
+==>  -19%  -->  +0.7% on HL
+
+foils.zr96.bi212.both     A = 2.17e-04  0  BR E 1.45e-05
+foils.zr96.tl208.both     A = 7.81e-05  0  BR E 5.20e-06
+foils.zr96.bi212.both     A = 2.17e-04  0  BR E 2.64e-05
+foils.zr96.tl208.both     A = 7.79e-05  0  BR E 9.51e-06
+==>  -0.3%  -->  +0.01% on HL
+
+
+========================================================
+internal bkg systematics --> master-model-6 (LFit)
+========================================================
+
+foils.zr96.pa234m.both    A = 5.12e-04  0  BR E 1.17e-05
+foils.zr96.pa234m.both    A = 1.14e-03  0  BR E 7.99e-04
+==>  55%
+
+foils.zr96.k40.both       A = 1.97e-02  0  BR E 3.49e-05
+foils.zr96.k40.both       A = 3.10e-02  0  BR E 4.56e-03
+==>  37%
+
+foils.zr96.bi214.both     A = 1.63e-04  0  BR E 1.48e-05
+foils.zr96.bi214.both     A = 1.52e-04  0  BR E 1.73e-05
+==>  7%
+
+foils.zr96.tl208.both     A = 8.51e-05  0  BR E 5.27e-06
+foils.zr96.tl208.both     A = 8.84e-05  0  BR E 9.69e-06
+==>  4%
+
+
