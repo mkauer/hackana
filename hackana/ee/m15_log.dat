@@ -1,0 +1,170 @@
+
+ BACKGROUNDS 
+==================================================================
+2b0n_m1_zr96              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+2b0n_m1_1p_zr96           A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+2b0n_m2_zr96              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+2b0n_m5_zr96              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+2b0n_m6_zr96              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+2b0n_m7_zr96              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+2b0n_m8_zr96              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+2b2n_ca48                 A = 4.00e-05  Eff = 0.00e+00  Nexp = 0.00e+00 +/- 0.00e+00 
+2b2n_nd150                A = 3.47e-04  Eff = 7.65e-04  Nexp = 2.80e+01 +/- 3.23e+00 
+ca48_foils_bi214          A = 4.47e-06  Eff = 0.00e+00  Nexp = 0.00e+00 +/- 0.00e+00 
+ca48_foils_k40            A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+ca48_foils_pa234m         A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+ca48_foils_sr90           A = 3.10e-02  Eff = 0.00e+00  Nexp = 0.00e+00 +/- 0.00e+00 
+ca48_foils_y90            A = 3.10e-02  Eff = 0.00e+00  Nexp = 0.00e+00 +/- 0.00e+00 
+nd150_foils_ac228         A = 1.41e-03  Eff = 1.83e-05  Nexp = 2.72e+00 +/- 6.19e-02 
+nd150_foils_bi207         A = 1.17e-02  Eff = 1.34e-06  Nexp = 1.65e+00 +/- 1.39e-01 
+nd150_foils_bi214         A = 1.67e-04  Eff = 3.70e-06  Nexp = 6.51e-02 +/- 3.30e-03 
+nd150_foils_eu152         A = 2.74e-03  Eff = 4.96e-07  Nexp = 1.43e-01 +/- 1.98e-02 
+nd150_foils_k40           A = 1.08e-02  Eff = 1.25e-06  Nexp = 1.42e+00 +/- 1.24e-01 
+nd150_foils_pa234m        A = 2.38e-03  Eff = 1.09e-05  Nexp = 2.73e+00 +/- 8.06e-02 
+nd150_foils_pb211         A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+nd150_foils_pb214         A = 1.67e-04  Eff = 6.01e-06  Nexp = 1.06e-01 +/- 4.21e-03 
+nd150_foils_tl207         A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+nd150_foils_tl208         A = 5.07e-04  Eff = 1.28e-05  Nexp = 6.84e-01 +/- 1.86e-02 
+foils.zr96.ac228.both     A = 2.51e-04  Eff = 4.19e-04  Nexp = 1.11e+01 +/- 8.59e-01 
+foils.zr96.bi212.both     A = 2.51e-04  Eff = 3.60e-04  Nexp = 9.55e+00 +/- 7.39e-01 
+foils.zr96.tl208.both     A = 9.05e-05  Eff = 9.78e-04  Nexp = 9.33e+00 +/- 7.21e-01 
+foils.zr96.bi214.both     A = 1.86e-04  Eff = 1.16e-03  Nexp = 2.28e+01 +/- 2.45e+00 
+foils.zr96.pb214.both     A = 1.86e-04  Eff = 1.70e-04  Nexp = 3.34e+00 +/- 3.60e-01 
+foils.zr96.k40.both       A = 1.97e-02  Eff = 1.35e-04  Nexp = 2.80e+02 +/- 2.43e+00 
+foils.zr96.pa234m.both    A = 4.90e-04  Eff = 7.41e-04  Nexp = 3.83e+01 +/- 6.66e-01 
+foils.zr96.pb211.both     A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+foils.zr96.tl207.both     A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+foils.zr96.zr96.both      A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+swirebi210_p1             A = 2.35e+01  Eff = 1.55e-09  Nexp = 3.85e+00 +/- 3.85e+00 
+swirebi210_p2             A = 2.35e+01  Eff = 0.00e+00  Nexp = 0.00e+00 +/- 0.00e+00 
+sfoilbi210_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sfoilbi210_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg11bi212_p1            A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg11tl208_p1            A = 2.70e+01  Eff = 9.01e-11  Nexp = 2.56e-01 +/- 1.81e-01 
+exbg11ac228_p1            A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg11bi214_p1            A = 3.24e+02  Eff = 4.66e-11  Nexp = 1.59e+00 +/- 9.20e-01 
+exbg11k40_p1              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg17co60_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg2tl208_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg2bi214_p1             A = 5.66e+02  Eff = 3.77e-11  Nexp = 2.25e+00 +/- 1.30e+00 
+exbg2pb214_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg4tl208_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg4ac228_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg4bi214_p1             A = 7.36e+03  Eff = 7.97e-13  Nexp = 6.19e-01 +/- 6.19e-01 
+exbg6co60_p1              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg7co60_p1              A = 6.09e+00  Eff = 2.54e-10  Nexp = 1.63e-01 +/- 1.15e-01 
+exbg7pa234m_p1            A = 1.51e+03  Eff = 7.85e-12  Nexp = 1.25e+00 +/- 1.25e+00 
+exbg7tl208_p1             A = 3.07e+00  Eff = 0.00e+00  Nexp = 0.00e+00 +/- 1.24e-01 
+exbg7ac228_p1             A = 8.54e+00  Eff = 1.45e-10  Nexp = 1.31e-01 +/- 1.31e-01 
+exbg7bi214_p1             A = 9.12e+00  Eff = 1.23e-10  Nexp = 1.18e-01 +/- 1.18e-01 
+exbg7k40_p1               A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+scink40_p1                A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sfoilbi214_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sfoilpb214_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sscinbi214_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sscinpb214_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sscinbi210_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sscineu152_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+swiretl208_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+swirebi214_p1             A = 1.20e+03  Eff = 2.89e-11  Nexp = 3.66e+00 +/- 1.71e+00 
+swirek40_p1               A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+swirepb214_p1             A = 1.20e+03  Eff = 3.43e-11  Nexp = 4.34e+00 +/- 7.89e-01 
+swirepb211_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+swiretl207_p1             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+wiresco60_p1              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg11bi212_p2            A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg11tl208_p2            A = 2.70e+01  Eff = 8.92e-11  Nexp = 2.54e-01 +/- 1.79e-01 
+exbg11ac228_p2            A = 7.27e+01  Eff = 2.93e-11  Nexp = 2.25e-01 +/- 2.25e-01 
+exbg11bi214_p2            A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg11k40_p2              A = 1.08e+03  Eff = 9.87e-12  Nexp = 1.12e+00 +/- 6.48e-01 
+exbg17co60_p2             A = 4.76e+01  Eff = 1.47e-10  Nexp = 7.40e-01 +/- 7.40e-01 
+exbg2tl208_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg2bi214_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg2pb214_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg4tl208_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg4ac228_p2             A = 1.35e+03  Eff = 4.20e-12  Nexp = 5.96e-01 +/- 5.96e-01 
+exbg4bi214_p2             A = 7.36e+03  Eff = 7.77e-13  Nexp = 6.03e-01 +/- 6.03e-01 
+exbg6co60_p2              A = 1.84e+01  Eff = 1.36e-10  Nexp = 2.64e-01 +/- 2.64e-01 
+exbg7co60_p2              A = 6.09e+00  Eff = 2.55e-10  Nexp = 1.64e-01 +/- 1.16e-01 
+exbg7pa234m_p2            A = 1.51e+03  Eff = 8.11e-12  Nexp = 1.29e+00 +/- 1.29e+00 
+exbg7tl208_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg7ac228_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg7bi214_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+exbg7k40_p2               A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+scink40_p2                A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sfoilbi214_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sfoilpb214_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sscinbi214_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sscinpb214_p2             A = 3.80e-01  Eff = 1.08e-09  Nexp = 4.31e-02 +/- 4.31e-02 
+sscinbi210_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+sscineu152_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+swiretl208_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+swirebi214_p2             A = 1.98e+02  Eff = 3.24e-11  Nexp = 6.79e-01 +/- 2.79e-01 
+swirek40_p2               A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+swirepb214_p2             A = 1.98e+02  Eff = 6.07e-11  Nexp = 1.27e+00 +/- 1.80e-01 
+swirepb211_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+swiretl207_p2             A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+wiresco60_p2              A = 0.00e+00  Eff = nan       Nexp = 0.00e+00 +/- 0.00e+00 
+
+
+ DATA
+==================================================================
+Runtime     = 1221.04 days
+Corr. Time  = 1196.50 days
+Events      = 898
+
+
+ SIGNALS 
+==================================================================
+2b2n_zr96_both            A = 5.41e-05 +/- 3.31e-06  Eff = 7.52e-02  Nexp = 4.29e+02 +/- 2.62e+01 
+
+Runtime      = 1221.0 days 
+Deadtime     = 2.01 % 
+Corr. Time   = 1196.5 days
+
+Data         = 898
+Bgr          = 437.6 +/- 7.2
+Sig          = 429.2 +/- 26.2
+S/B          = 0.98
+Eff          = 7.5 % 
+
+96Zr Mass    = 9.40 gr. 
+Activity     = 5.41e-05 +/- 3.31e-06 Bq. 
+Syst Error   = (+) 8.2%  (-) 7.5% 
+Half-life    = 2.3948e+19 yr. 
+Corr. H-L    = 2.3467e+19 yr. 
+
+Final Result = 2.35e+19 +/- 1.43e+18(stat) + 1.92e+18(syst) - 1.76e+18(syst) yr. 
+Sigmas       = 14.9
+2vBB NME     = 0.0487 +/- 0.0027
+
+Fit rebinning  ==>  4
+Energy Window  ==>  0.6 - 4.0 MeV 
+
+
+ 0vBB HELENE LIMIT
+==================================================================
+Energy window  = 2.70 - 3.99 MeV 
+Data Events    = 1
+Exp Bkg Events = 1.48 +/- 0.07
+Exp 0v Events  < 3.12 @ 90 % CL 
+0v Efficiency  = 0.63 % 
+T_0v Helene    > 2.77e+20 yr 
+Corr. T_0v     > 2.71e+20 yr 
+
+
+
+ 0vBB MC TLIMIT
+==================================================================
+Data Events    = 898
+Exp Bkg Events = 866.76
+Exp 0v Events  < 17.64 @ 90 % CL 
+0v Efficiency  = 13.04 % 
+Rebin          = 4
+T_0v MClimit   > 1.01e+21 yr 
+Corr. T_0v     > 9.90e+20 yr 
+
+
+
+ LEPTON NUMBER VIOLATION 
+==================================================================

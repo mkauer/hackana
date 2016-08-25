@@ -1,0 +1,107 @@
+data-combined.tver8.root        DATA                    0.00e+00  0  DR
+0vbb-MC.tver8.root              2b0n_m1_zr96            0.00e+00  0  LR
+0vbb-MC.tver8.root              2b0n_m1_1p_zr96         0.00e+00  0  BR
+0vbb-MC.tver8.root              2b0n_m2_zr96            0.00e+00  0  BR
+0vbb-MC.tver8.root              2b0n_m5_zr96            0.00e+00  0  BR
+0vbb-MC.tver8.root              2b0n_m6_zr96            0.00e+00  0  BR
+0vbb-MC.tver8.root              2b0n_m7_zr96            0.00e+00  0  BR
+0vbb-MC.tver8.root              2b0n_m8_zr96            0.00e+00  0  BR
+0vbb-MC.tver8.root              2b0n_m15_zr96           0.00e+00  0  BR
+data-combined.tver8.root	2b2n_ca48		4.00e-05  0  BR E 0.40e-05
+data-combined.tver8.root	2b2n_nd150		3.47e-04  0  BR E 0.40e-04
+data-combined.tver8.root	2b2n_zr96_both		5.42e-05  0  SR E 0.50e-05
+data-combined.tver8.root	ca48_foils_bi214	4.47e-06  0  BR
+data-combined.tver8.root	ca48_foils_k40		0.00e+00  0  BR
+data-combined.tver8.root	ca48_foils_pa234m	0.00e+00  0  BR
+data-combined.tver8.root	ca48_foils_sr90		3.10e-02  0  BR
+data-combined.tver8.root	ca48_foils_y90		3.10e-02  0  BR
+data-combined.tver8.root	nd150_foils_ac228	1.41e-03  0  BR
+data-combined.tver8.root	nd150_foils_bi207	1.17e-02  0  BR
+data-combined.tver8.root	nd150_foils_bi214	1.67e-04  0  BR
+data-combined.tver8.root	nd150_foils_eu152	2.74e-03  0  BR
+data-combined.tver8.root	nd150_foils_k40		1.08e-02  0  BR
+data-combined.tver8.root	nd150_foils_pa234m	2.38e-03  0  BR
+data-combined.tver8.root	nd150_foils_pb211	0.00e+00  0  BR
+data-combined.tver8.root	nd150_foils_pb214	1.67e-04  0  BR
+data-combined.tver8.root	nd150_foils_tl207	0.00e+00  0  BR
+data-combined.tver8.root	nd150_foils_tl208	5.07e-04  0  BR
+data-combined.tver8.root	foils.zr96.ac228.both	2.51e-04  0  BR E 1.94e-05 D foils.zr96.bi212.both 1.
+data-combined.tver8.root	foils.zr96.bi212.both	2.51e-04  0  BR E 1.94e-05
+data-combined.tver8.root	foils.zr96.tl208.both	9.05e-05  0  BR E 6.99e-06 D foils.zr96.bi212.both 0.36
+data-combined.tver8.root	foils.zr96.bi214.both	1.86e-04  0  BR E 2.00e-05
+data-combined.tver8.root	foils.zr96.pb214.both	1.86e-04  0  BR E 2.00e-05 D foils.zr96.bi214.both 1.
+data-combined.tver8.root	foils.zr96.k40.both	1.97e-02  0  BR E 4.30e-05
+data-combined.tver8.root	foils.zr96.pa234m.both	4.90e-04  0  BR E 8.34e-06
+data-combined.tver8.root	foils.zr96.pb211.both	0.00e+00  0  BR
+data-combined.tver8.root	foils.zr96.tl207.both	0.00e+00  0  BR
+data-combined.tver8.root	foils.zr96.zr96.both	0.00e+00  0  BR
+vt_externals-p1.tver8.root      swirebi210_p1           2.35e+01  0  BR E 5.40e-01 D swirebi210_p2 1.
+vt_externals-p2.tver8.root      swirebi210_p2           2.35e+01  0  BR E 5.40e-01
+vt_externals-p2.tver8.root      sfoilbi210_p2           -1.00e+0  0  BR
+vt_externals-p1.tver8.root	sfoilbi210_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg11bi212_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg11tl208_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg11ac228_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg11bi214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg11k40_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg17co60_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg2tl208_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg2bi214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg2pb214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg4tl208_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg4ac228_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg4bi214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg6co60_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg7co60_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg7pa234m_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg7tl208_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg7ac228_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg7bi214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	exbg7k40_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	scink40_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	sfoilbi214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	sfoilpb214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	sscinbi214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	sscinpb214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	sscinbi210_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	sscineu152_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	swiretl208_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	swirebi214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	swirek40_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	swirepb214_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	swirepb211_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	swiretl207_p1		-1.00e+0  0  BR
+vt_externals-p1.tver8.root	wiresco60_p1		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg11bi212_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg11tl208_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg11ac228_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg11bi214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg11k40_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg17co60_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg2tl208_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg2bi214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg2pb214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg4tl208_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg4ac228_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg4bi214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg6co60_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg7co60_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg7pa234m_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg7tl208_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg7ac228_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg7bi214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	exbg7k40_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	scink40_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	sfoilbi214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	sfoilpb214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	sscinbi214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	sscinpb214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	sscinbi210_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	sscineu152_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	swiretl208_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	swirebi214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	swirek40_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	swirepb214_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	swirepb211_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	swiretl207_p2		-1.00e+0  0  BR
+vt_externals-p2.tver8.root	wiresco60_p2		-1.00e+0  0  BR
