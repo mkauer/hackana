@@ -9,21 +9,20 @@
 # page software section for details)
 ##########################################################################
 
-GC = gcc34
-
 ############# USERS SETTINGS #########################################
 URUNC	    = ${shell pwd}/urun.cpp
-#URUNC       = /unix/nemo2/users/kauer/anal_1e/zr96_anal/urun.cpp
 ULOOPC	    = ${shell pwd}/uloop.cpp
-#SLIMC	    = /unix/nemo2/users/kauer/GLOBAL_CUTS/1e/1e_cuts.C
 SLIMC	    = ../GLOBAL_CUTS/1e/1e_cuts.C
 ######################################################################
+
+GC = gcc34
 
 UTILS       = ${R10SYS}/utils
 SRCS        = $(shell find $(UTILS) -name "*\.C" -print)
 LIBRARY     = $(shell find $(UTILS) -name "*\.so" -print)
 
-OPT         = -O3 -ggdb
+OPT         = -O3 
+#OPT	    = -Og -ggdb # for optimized debugging
 CXX         = $(GC) $(OPT)
 INCLUDES    = $(shell $(UTILS)/r10-config --include)
 CXXFLAGS    = -fPIC $(INCLUDES) -Wno-deprecated

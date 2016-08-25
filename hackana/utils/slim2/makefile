@@ -16,7 +16,8 @@ GC = gcc34
 
 package_name  = slim2
 
-OPT           = -O3 -ggdb
+OPT           = -O3
+#OPT	      = -Og -ggdb # for optimized debugging
 CXX           = $(GC) $(OPT)
 INCLUDES      = $(shell ${R10SYS}/utils/r10-config --include)
 CXXFLAGS      = -fPIC $(INCLUDES) -Wno-deprecated

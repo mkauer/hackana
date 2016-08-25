@@ -1,0 +1,2 @@
+Library.TDCacheFile:                        libDCache.so libRIO.so
+Library.TDCacheSystem:                      libDCache.so libRIO.so

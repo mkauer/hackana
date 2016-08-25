@@ -16,7 +16,8 @@ GC = gcc34
 
 package_name  = rootana_utils
 
-OPT           = -O3 -ggdb
+OPT           = -O3
+#OPT	      = -Og -ggdb # for optimized debugging
 INCLUDES      = $(shell ${R10SYS}/utils/r10-config --include)
 CXX           = $(GC) $(OPT)
 CXXFLAGS      = -fPIC $(INCLUDES) -Wno-deprecated

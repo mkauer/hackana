@@ -1,21 +1,23 @@
 #!/bin/bash
 
-### Fedora 22 version!!
+### Fedora 22 x64 version of hackana!!
 
-source reset-root.sh
+hackana=/home/mkauer/COSINE/nemo/hackana
+
+source $hackana/reset-root.sh
 
 #export ROOTSYS=/home/mkauer/software/root_v5.34.36_x64_fedora20_gcc4.8
 #export ROOTSYS=/home/mkauer/software/root_v5.34.36_x64_slc6_gcc5.1
 #export ROOTSYS=/home/mkauer/software/root_v5.23.04_i386_slc5_gcc3.4
-export ROOTSYS=/home/mkauer/software/root_v5.23.04_x64_slc5_gcc3.4
+#export ROOTSYS=/home/mkauer/software/root_v5.23.04_x64_slc5_gcc3.4
+export ROOTSYS=$hackana/ROOT/root_v5.23.04_x64_slc5_gcc3.4
 
-export R10SYS=/home/mkauer/COSINE/nemo/hackana
+export R10SYS=$hackana
 export LD_LIBRARY_PATH=${R10SYS}/utils/lib:${LD_LIBRARY_PATH}
 export LD_LIBRARY_PATH=${ROOTSYS}/lib:${LD_LIBRARY_PATH}
 export PATH=${ROOTSYS}/bin:${PATH}
 
 ### user aliases
-hackana=/home/mkauer/COSINE/nemo/hackana
 alias epub="emacs $hackana/utils/ana10/anaPublish.C &"
 alias cd1e="cd $hackana/1e"
 alias cdeg="cd $hackana/eg"
