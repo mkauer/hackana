@@ -1,0 +1,65 @@
+# makefile for user to compile slim2 program. Author V. Vasiliev
+# copy it to your working slim directory, and 
+# set correct path to cut.C function.
+
+#R10SYS environment variable should be set to rootana disrectory
+#LD_LIBRARY_PATH should contain $R10SYS/utils/lib path as well
+
+
+
+#******************  USERS SETTINGS**********************
+CUT	    = cut_dummy.cpp
+#********************************************************
+
+#rootana directory 
+UTILS       = $(R10SYS)/utils
+SRCS       =  ${shell find $(UTILS) -name "*.C"  -print}
+LIBRARY    =  ${shell find $(UTILS) -name "*.so"  -print}
+
+OPT           = -g 
+CXX           = g++
+INCLUDES      = $(shell ${R10SYS}/utils/r10-config --include)
+CXXFLAGS      = $(OPT) -fPIC $(INCLUDES)
+LD            = g++
+LDFLAGS       = 
+LIBS          =  $(shell ${R10SYS}/utils/r10-config --libs) $(R10LIBS) 
+
+#slim2 lib
+R10LIBS       = -L$(UTILS)/lib -lslim2
+
+# command to erase all files
+RM 		= /bin/rm -f
+
+
+# list of object files
+OBJS 		=cut.o 
+# program executable file name
+PROG 		= slim2
+
+# top level rule, to compile everything
+all :  $(LIBRARY) $(PROG)
+
+$(LIBRARY): $(SRCS)
+	@echo "Recompile rootana libraries"
+	gmake -C $(UTILS)/ 
+
+# rule for file "cut.o"
+cut.o : $(CUT)
+	@echo "<**Compiling**> "$<
+	$(CXX) $(CXXFLAGS) -c $< -o  $@
+
+# rule to link the program
+$(PROG) : $(OBJS)
+	@echo "<**Linking**>"	
+	$(LD) $(LDFLAGS) $(OBJS) $(LIBS) -o $(PROG)
+
+# meta-rule for compiling any "C" source file
+%.o : %.C
+	@echo "<**Compiling**> "$<
+	$(CXX) $(CXXFLAGS) -c $< -o  $@
+
+clean:
+	$(RM) $(PROG) $(OBJS) 
+	$(RM) core*
+
+
